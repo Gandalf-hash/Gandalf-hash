@@ -22,10 +22,10 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+<a href="https://github.com/Gandalf-hash/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gandalf-hash&theme=radical&layout=compact&langs_count=8&card_width=320" />
+</a>
  
 <a href="https://github.com/Gandalf-hash/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gandalf-hash&theme=radical" />
-</a>
-<a href="https://github.com/Gandalf-hash/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gandalf-hash&theme=radical&layout=compact&langs_count=8&card_width=320" />
 </a>
