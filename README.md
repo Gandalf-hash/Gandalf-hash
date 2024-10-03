@@ -29,3 +29,5 @@
 <a href="https://github.com/Gandalf-hash/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gandalf-hash&theme=radical" />
 </a>
+
+<p dir="auto"><a href="https://visitcount.itsvg.in" rel="nofollow"><img src="https://camo.githubusercontent.com/4395bf9a314bfb80700b1fc4580ca221d3107556ec6bf194793ab825366d0bfb/68747470733a2f2f7669736974636f756e742e69747376672e696e2f6170693f69643d6f67756e736f6c6164656261796f266c6162656c3d50726f66696c65253230566965777326636f6c6f723d312669636f6e3d35267072657474793d74727565" alt="" data-canonical-src="https://visitcount.itsvg.in/api?id=ogunsoladebayo&amp;label=Profile%20Views&amp;color=1&amp;icon=5&amp;pretty=true" style="max-width: 100%;"></a></p>
