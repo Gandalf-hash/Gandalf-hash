@@ -45,6 +45,8 @@ Hey! I’m a  developer who’s all about building clean, user-friendly web apps
 ![Shopify Plus](https://img.shields.io/badge/-Shopify%20Plus-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Pug](https://img.shields.io/badge/-Pug.js-A86454?style=for-the-badge&logo=pug&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
 
 
 
