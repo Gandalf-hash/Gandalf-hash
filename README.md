@@ -76,7 +76,7 @@ Hey! I’m a  developer who’s all about building clean, user-friendly web apps
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gandalf-hash&theme=onedark&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark&row=1&column=6" />
 </p>
 
 ---
